@@ -9,7 +9,7 @@ A comprehensive business intelligence solution built in Power BI analyzing sales
 - **Time Period:** 2014-2017
 - **Data Points:** Sales, Profit, Discounts, Customer segments, Geographic data
 
-##  Skills Demonstrated
+##  Skills Achieved
 
 ### 1. ETL & Data Cleaning (Power Query)
 - Cleaned null values and standardized formats
@@ -100,4 +100,5 @@ Star schema with proper relationships:
 ## 📅 Project Date
 
 26 November 2025
+
 
