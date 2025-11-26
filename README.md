@@ -82,7 +82,7 @@ Star schema with proper relationships:
 ```
 ├── superstore_dashboard.pbix    # Main Power BI file
 ├── screenshots/                  # Dashboard images
-├── data/                         # Source data (optional)
+├── data/                         # Source data
 └── README.md                     # Project documentation
 ```
 
@@ -98,4 +98,5 @@ Star schema with proper relationships:
 - Email: hasini.rhm@gmail.com
 
 ## 📅 Project Date
+
 26 November 2025
