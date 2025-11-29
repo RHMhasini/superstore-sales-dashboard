@@ -93,12 +93,13 @@ Star schema with proper relationships:
 4. Filter by year, region, category, or segment
 
 ##  Author
-[Hasini Herath]
+Hasini Herath
 - LinkedIn: www.linkedin.com/in/hasini-herath-rhm
 - Email: hasini.rhm@gmail.com
 
-## 📅 Project Date
+##  Project Date
 
 26 November 2025
+
 
 
